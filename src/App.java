@@ -90,7 +90,7 @@ public class App {
 
         // Crea al villano con sus estadísticas iniciales.
         Villano enemigo = new Villano(
-            "Threnodian", 15, 20, 120, "Aero"
+            "Threnodian", 15, 20, 120, "Havoc"
         );
 
         // Presenta el título de la batalla al iniciar la partida.
